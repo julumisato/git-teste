@@ -1,6 +1,5 @@
-Testes de uso do git
+# Testes de uso do git
 
-echo "# git-teste" >> README.md <br>
 git init <br>
 git add README.md <br>
 git commit -m "first commit" <br>
